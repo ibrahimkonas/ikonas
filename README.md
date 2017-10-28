@@ -1,2 +1,2 @@
-# ikonas
-ad soyad kısaltılmışı kısaltılmışı
+# CNC kontroller
+ibrahim konaş
